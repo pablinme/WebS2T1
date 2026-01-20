@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sAFTGW74B10=",
+  "dgSpecHash": "6Ou0CPsNLTs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\S2T1\\S2T1.csproj",
+  "projectFilePath": "C:\\Users\\pablo\\source\\repos\\WebS2T1\\S2T1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pablo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
